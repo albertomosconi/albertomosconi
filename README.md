@@ -1,4 +1,4 @@
-### Hello there! <a href="https://albertomosconi.it" >I'm Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h2 align="center">Hello there! <a href="https://albertomosconi.it" >I'm Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
 I'm a Computer Science student at Politecnico di Milano, Italy. I'm very passionate about learning new technologies and programming in general.
 
 <a href="https://github.com/albertomosconi" >
