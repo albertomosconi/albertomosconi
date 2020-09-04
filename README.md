@@ -11,9 +11,9 @@
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
 </p>
 </div>
-
-I'm a Computer Science student at Politecnico di Milano, Italy. I'm very passionate about learning new technologies and programming in general.
-
+<p>
+I'm a Computer Science student from Italy who's very passionate about Open Source. My goal for the future is to work on and contribute to more open source projects. I also learning new technologies and programming in general.
+</p>
 <a href="https://github.com/albertomosconi" >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomosconi&hide_border=true&show_icons=true&hide=prs,issues&count_private=true" />
 </a>
