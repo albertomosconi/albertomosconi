@@ -12,7 +12,7 @@
 </p>
 </div>
 <p>
-I'm a Computer Science student from Italy who's very passionate about the FOSS community. My goal for the future is to work on and contribute to more open source projects. I also love learning new technologies and programming in general.
+I'm a student from Italy currently attending the third year of a bachelor's degree in Engineering of Computing Systems who's very passionate about the FOSS community. My goal for the future is to work on and contribute to more open source projects. I also love learning new technologies and programming in general.
 </p>
 <a href="https://github.com/albertomosconi" >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomosconi&hide_border=true&show_icons=true&hide=issues&count_private=true" />
