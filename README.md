@@ -14,9 +14,11 @@
 <p>
 I'm a student from Italy currently attending the third year of a bachelor's degree in Engineering of Computing Systems who's very passionate about the FOSS community. My goal for the future is to work on and contribute to more open source projects. I also love learning new technologies and programming in general.
 </p>
+<div align="center">
 <a href="https://github.com/albertomosconi" >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomosconi&show_icons=true&hide=issues&count_private=true" />
 </a>
 <a href="https://github.com/albertomosconi?tab=repositories" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomosconi&layout=compact" />
 </a>
+</div>
