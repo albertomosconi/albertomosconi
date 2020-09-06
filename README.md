@@ -16,9 +16,9 @@ I'm a student from Italy currently attending the third year of a bachelor's degr
 </p>
 <div align="center">
 <a href="https://github.com/albertomosconi" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomosconi&show_icons=true&hide=issues&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomosconi&hide_border=true&show_icons=true&hide=issues&count_private=true" />
 </a>
 <a href="https://github.com/albertomosconi?tab=repositories" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomosconi&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomosconi&layout=compact&hide_border=true" />
 </a>
 </div>
