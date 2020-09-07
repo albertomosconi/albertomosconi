@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Hello there! <a href="https://albertomosconi.it" >I'm Alberto</samp> <img src="https://raw.githubusercontent.com/albertomosconi/albertomosconi/master/wave.gif" width="25px"></a></h1>
+<h1 align="center"><samp>Hello there! I'm <a href="https://albertomosconi.it" >Alberto</samp></a> <img src="https://raw.githubusercontent.com/albertomosconi/albertomosconi/master/wave.gif" width="25px"></h1>
 
 <div align="center">
 <p align="center">
