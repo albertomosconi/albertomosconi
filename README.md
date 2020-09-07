@@ -11,9 +11,9 @@
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" /></a>
 </p>
 </div>
-<p align="center"><samp>
+<p align="center">
 I'm a student from Italy currently attending the third year of a bachelor's degree in Engineering of Computing Systems who's very passionate about the FOSS community. My goal for the future is to work on and contribute to more open source projects. I also love learning new technologies and programming in general.
-  </samp></p>
+</p>
 <div align="center">
 <a href="https://github.com/albertomosconi" >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomosconi&hide_border=true&show_icons=true&hide=issues&count_private=true" />
