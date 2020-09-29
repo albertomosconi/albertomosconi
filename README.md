@@ -8,8 +8,8 @@
 <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase"/></a>
 <a href="https://en.wikipedia.org/wiki/C_%28programming_language%29"><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/></a>
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" /></a>
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white" /></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/pytorch%20-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" /></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white" /></a>
 </p>
 </div>
 <p align="center">
