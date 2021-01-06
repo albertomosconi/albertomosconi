@@ -14,7 +14,7 @@
 </p>
 </div>
 <p align="center">
-I'm a student from Italy, currently attending the third year of a bachelor's degree in Engineering of Computing Systems, who's very passionate about the FOSS community. My goal for the future is to work on and contribute to more open source projects. I also love learning new technologies and programming in general.
+I'm very passionate about the FOSS community, my goal for the future is to work on and contribute to more open source projects!
 </p>
 <div align="center">
 <a href="https://github.com/albertomosconi" >
