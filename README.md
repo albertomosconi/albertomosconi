@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm <a href="https://albertomosconi.it" >Alberto</a> <img src="https://raw.githubusercontent.com/albertomosconi/albertomosconi/master/wave.gif" width="25px"></h1>
+<h1 align="center">Hello World! I'm <a href="https://albertomosconi.it" >Alberto</a> <img src="https://raw.githubusercontent.com/albertomosconi/albertomosconi/master/wave.gif" width="25px"></h1>
 
 <p align="center">
 I'm very passionate about the FOSS community, my goal for the future is to work on and contribute to more open source projects!
