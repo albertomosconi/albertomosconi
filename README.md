@@ -1,4 +1,3 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=albertomosconi&style=flat-square&label=visits&color=blue" ></p>
 <h1 align="center">Hello there! I'm <a href="https://albertomosconi.it" >Alberto</a> <img src="https://raw.githubusercontent.com/albertomosconi/albertomosconi/master/wave.gif" width="25px"></h1>
 
 <p align="center">
