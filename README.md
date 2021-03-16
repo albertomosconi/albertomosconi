@@ -11,3 +11,5 @@ I'm very passionate about the FOSS community, my goal for the future is to work 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomosconi&layout=compact&hide_border=true" />
 </a>
 </div>
+<hr>
+<sup>Logo by Linda Spialtini</sup>
