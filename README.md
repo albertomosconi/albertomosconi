@@ -13,4 +13,4 @@ I'm very passionate about the FOSS community, my goal for the future is to work 
 </div>
 
 
-<sup>My logo was made by Linda Spialtini</sup>
+<sub>My logo was made by Linda Spialtini</sub>
